@@ -81,6 +81,7 @@ console.log(b);
 
 // Can't redeclare
 // Can't Reassign value
+// Help in memory management
 const c = 3;
 
 // c = 4;
