@@ -1,0 +1,28 @@
+{
+  "name": "coforge_training",
+  "version": "0.0.1",
+  "description": "\"this is web pack training\"",
+  "main": "ObectSyntax.js",
+  "scripts": {
+    "test": "npm run",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/keshavgera11/coforge_training.git"
+  },
+  "keywords": [
+    "web",
+    "pack"
+  ],
+  "author": "keshav gera",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/keshavgera11/coforge_training/issues"
+  },
+  "homepage": "https://github.com/keshavgera11/coforge_training#readme",
+  "devDependencies": {
+    "webpack": "^5.58.2",
+    "webpack-cli": "^4.9.0"
+  }
+}
